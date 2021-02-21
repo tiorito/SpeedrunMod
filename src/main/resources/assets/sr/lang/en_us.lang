@@ -1,0 +1,25 @@
+//Items
+
+item.pipoca.name=Pipoca
+item.ruby.name=Ruby
+
+
+
+//Tools
+item.ruby_sword.name=Ruby Sword Tiorito
+item.ruby_pickaxe.name=Ruby PickAxe
+item.ruby_shovel.name=Ruby Shovel
+item.ruby_hoe.name=Ruby Hoe
+item.ruby_axe.name=Ruby Axe
+item.speedrun_sword.name=Speedrun Sword
+item.ruby_helmet.name=Ruby Helmet
+item.ruby_leggings.name=Ruby Leggings
+item.ruby_chestplate.name=Ruby Chestplate
+item.ruby_boots.name=Ruby Boots
+
+//Blocks
+tile.ruby_block.name=Block of Ruby
+tile.ruby_ore.name=Ore of Ruby
+
+//Food
+ Item.evil_apple.name = evil_apple
